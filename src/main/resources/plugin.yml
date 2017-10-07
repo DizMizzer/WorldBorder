@@ -1,0 +1,8 @@
+name: SetBorder
+main: nl.dizmizzer.wb.Main
+version: 1.0
+
+commands:
+  borderset:
+    usage: /command
+    description: /borderset <x> <z>.
